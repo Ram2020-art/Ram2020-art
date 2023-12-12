@@ -27,7 +27,7 @@ Hi, I'm [Ram Mijar](https://www.rammijar.com.np/), a web and app developer 👨�
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ramijar2020)
 [![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/ram.mijar.165?mibextid=zbwkwl)
 [![Instagram Profile](https://img.shields.io/badge/Instagram-Profile-blue)](https://instagram.com/ramijar2020?igshid=ogq5zdc2odk2za==)
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/c/ramijar2020?si=b5we1uogb0162fdn)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/ramijar2020?si=b5we1uogb0162fdn)
 
 ## Support ☕
  [![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
