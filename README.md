@@ -30,8 +30,8 @@ Hi, I'm [Ram Mijar](https://www.rammijar.com.np/), a web and app developer 👨�
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/c/ramijar2020?si=b5we1uogb0162fdn)
 
 ## Support ☕
-- [![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
-- [![Ko-fi](https://img.shields.io/badge/-☕%20Ko--fi-brightgreen)](https://ko-fi.com/rammijar)
+ [![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
+ [![Ko-fi](https://img.shields.io/badge/-☕%20Ko--fi-brightgreen)](https://ko-fi.com/rammijar)
 
 <div align="center">
    Show some ❤️ by starring some of the repositories!
