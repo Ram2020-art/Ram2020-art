@@ -1,17 +1,19 @@
 # Hello! 👋 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-I'm [Ram Mijar](https://www.rammijar.com.np/), a student based in Nepal with a passion for coding and technology. Currently learning and exploring various fields in computer science.
+I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nepal with a keen interest in coding and technology.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 ## Learning 📚
-- Currently focused on Python, C, Machine Learning, Ethical Hacking, Linux, and Termux.
+- Currently delving into Python, C, Machine Learning, Ethical Hacking, Linux, and Termux.
 
 ## Reach me at 📬
 [![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:admin@rammijar.com.np)
 
+
 ## Explore my experiences 👨‍💼
-- [Portfolio](https://www.rammijar.com.np/vcard.html)
+[<img src="https://www.rammijar.com.np/images/Bd9JkdSJFAGp.png" alt="Portfolio Icon" width="100"/>](https://www.rammijar.com.np/) 
+
 
 ## Connect with Me:
 [![CodePen Profile](https://img.shields.io/badge/CodePen-Profile-blue)](https://codepen.io/ram-mijar)
