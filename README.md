@@ -1,4 +1,4 @@
-# Hello! 👋 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+# Hello! there  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nepal with a keen interest in coding and technology.
 
@@ -23,8 +23,8 @@ I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nep
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://youtube.com/@ramijar2020?si=yFtvYjcac-KonrnH)
 
 ## Support ☕
-- [![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
-- [![Ko-fi](https://img.shields.io/badge/-☕%20Ko--fi-brightgreen)](https://ko-fi.com/rammijar)
+[![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
+[![Ko-fi](https://img.shields.io/badge/-☕%20Ko--fi-brightgreen)](https://ko-fi.com/rammijar)
 
 <div align="center">
    Show some ❤️ by starring some of the repositories!
