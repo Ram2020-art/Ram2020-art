@@ -10,10 +10,8 @@ I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nep
 ## Reach me at 📬
 [![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:admin@rammijar.com.np)
 
-
 ## Explore my experiences 👨‍💼
 [<img src="https://www.rammijar.com.np/images/Bd9JkdSJFAGp.png" alt="Portfolio Icon" width="100"/>](https://www.rammijar.com.np/) 
-
 
 ## Connect with Me:
 [![CodePen Profile](https://img.shields.io/badge/CodePen-Profile-blue)](https://codepen.io/ram-mijar)
