@@ -1,6 +1,10 @@
 # Hello! there  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
+
+[![Visit My Website](https://img.shields.io/badge/Ram%20Mijar-Visit%20Website-blue)](https://www.rammijar.com.np/)
+
 I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nepal with a keen interest in coding and technology.
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
