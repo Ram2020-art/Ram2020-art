@@ -9,7 +9,16 @@ I'm [Ram Mijar](https://www.rammijar.com.np/), a passionate student based in Nep
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 ## Learning 📚
-- Currently delving into Python, C, Machine Learning, Ethical Hacking, Linux, and Termux.
+
+
+[![Python](https://img.shields.io/badge/Python-Learning-brightgreen?style=flat&logo=python)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-Learning-blue?style=flat&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-red?style=flat&logo=machine-learning)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Learning-yellow?style=flat&logo=hackaday)](https://en.wikipedia.org/wiki/Ethical_hacking)
+[![Linux](https://img.shields.io/badge/Linux-Learning-orange?style=flat&logo=linux)](https://www.linux.org/)
+[![Termux](https://img.shields.io/badge/Termux-Learning-lightgrey?style=flat&logo=android)](https://termux.com/)
+
+
 
 ## Reach me at 📬
 [![Email](https://img.shields.io/badge/-📬%20Email-%230077B5?style=flat&logo=gmail&logoColor=white)](mailto:admin@rammijar.com.np)
